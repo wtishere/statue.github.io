@@ -99,6 +99,16 @@ body {
     border-radius: 10px !important;
 }
 
+.toy-video {
+  position: relative;
+  width: 80%;
+  height: 0;
+  padding-bottom: 80.25%;
+
+  overflow: hidden;
+  border-radius: 10px !important;
+}
+
 .publication-video iframe {
     position: absolute;
     top: 0;
