@@ -101,9 +101,9 @@ body {
 
 .toy-video {
   position: relative;
-  width: 100%;
+  width: 80%;
   height: 0;
-  padding-bottom: 100.25%;
+  padding-bottom: 120.25%;
 
   overflow: hidden;
   border-radius: 10px !important;
